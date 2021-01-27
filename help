@@ -1,0 +1,1 @@
+clang++ hello.cpp -o h1 && ./h1
